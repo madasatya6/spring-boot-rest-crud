@@ -1,0 +1,18 @@
+bikin projek spring = https://www.youtube.com/watch?v=Z0JfmObjKRw
+programmer zaman now = https://www.youtube.com/watch?v=VM3rwdMBORY&list=PL-CtdCApEFH8bV3sla0QfmMnJQ4YX_wR1
+
+inisialisasi projek di vscode = 
+1. masuk ke command pallete: >spring 
+2. pilih "Spring Initializr: Create a Maven Project"
+3. pilih versi spring bebas
+4. pilih Bahasa pakai java
+5. masukkan nama package
+6. masukan nama aplikasi
+7. pilih JAR
+8. pilih versi java
+9. centang ekstensi/dependency = 
+	- Spring Web Web
+	- Lombok 
+	- MySQL 
+	- Spring Boot DevTools Developer Tools
+	- Spring Data JPA SQL
