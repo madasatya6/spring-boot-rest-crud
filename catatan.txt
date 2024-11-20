@@ -16,3 +16,20 @@ inisialisasi projek di vscode =
 	- MySQL 
 	- Spring Boot DevTools Developer Tools
 	- Spring Data JPA SQL
+
+
+install database mysql =
+1. ketik >spring di command pallete
+2. pilih Spring Initializr: Add Starters...
+3. pilih "Spring Data JPA SQL"
+4. dan tambahkan juga "MySQL Driver SQL"
+5. klik enter
+
+
+konfigurasi koneksi ke databasenya melalui ./src/main/resources/application.properties
+
+cara membuat setter getter otomatis = 
+1. klik kanan
+2. klik Source Action 
+3. klik Generate Constructor 
+4. klik Getters and Setters
